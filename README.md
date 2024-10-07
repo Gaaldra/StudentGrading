@@ -14,7 +14,7 @@ Thi project demonstrates the use of object-oriented programming (OOP) in C# to c
 ### Getting Started
 1. **Clone the repository:**
   ```bash
-  git clone url
+  git clone https://github.com/Gaaldra/StudentGrading.git
   ```
 2. **Navigate to the project directory:**
   ```bash
@@ -24,3 +24,5 @@ Thi project demonstrates the use of object-oriented programming (OOP) in C# to c
   ```bash
   dotnet run
   ```
+### Output
+![image](https://github.com/user-attachments/assets/6d7c77b8-f401-4eee-ae63-4545dfc16ae0)
